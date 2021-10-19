@@ -90,6 +90,7 @@ git status
 ```
 git add . <\files_that_you_made_changes>
 ```
+#### Track your changes:heavy_check_mark:
 ```
 git status
 ```
