@@ -40,7 +40,7 @@ If you think that you can add a new feature or want to fix a bug. We invite you 
 5. Clone your forked repository of project.
 
 ```git clone
-git clone https://github.com/<your_username>/<project_name>.git
+git clone https://github.com/<your_username>/<project_repo_name>.git
 ```
 
 6. Navigate to the project directory.
