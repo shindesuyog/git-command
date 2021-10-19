@@ -14,12 +14,12 @@ Refer to the following articles on the basics of Git and Github and can also con
 ## 💥 How to Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]()
 
 - Take a look at the Existing [Issues](https://github.com/sifa123/Dev-Kitchen.git) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
-- Read the [Code of Conduct](https://github.com/sifa123/Dev-Kitchen.git)
+- Read the [Code of Conduct]()
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
@@ -35,24 +35,24 @@ If you think that you can add a new feature or want to fix a bug. We invite you 
 
    Run command `git init`
 
-4. Fork the [repository](https://github.com/sifa123/Dev-Kitchen).
+4. Fork the [repository]().
 
 5. Clone your forked repository of project.
 
 ```git clone
-git clone https://github.com/<your_username>/Dev-Kitchen.git
+git clone https://github.com/<your_username>/<project_name>.git
 ```
 
 6. Navigate to the project directory.
 
 ```
-cd Dev-Kitchen
+cd <project_name>
 ```
 
 7. Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/sifa123/Dev-Kitchen.git
+git remote add upstream https://github.com/<owner_name/<project_repo_name>.git
 ```
 
 8. Check the remotes for this repository.
@@ -83,16 +83,16 @@ git checkout -b <YOUR_BRANCH_NAME>
 git status
 ```
 
-```
-git  diff
-```
+
 
 13. Stage your changes.
 
 ```
 git add . <\files_that_you_made_changes>
 ```
-
+```
+git status
+```
 14. Commit your changes.
 
 ```
@@ -113,16 +113,17 @@ git push -u origin <your_branch_name>
 
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
 
-Congratulations🎉, you have made a PR to the Dev-Kitchen.
+Congratulations🎉,Now you have make a PR to any project .
 Wait for your submission to be accepted and your PR to be merged by a maintainer.
 
 If you have any doubts please let us know in the comments.
 
 ---
 
-## Open Source Programs we have been associated with:
+<!--## Open Source Programs we have been associated with:
 
 <p align="center">
-<a href="https://devincept.tech/" ><img src="https://user-images.githubusercontent.com/56088741/123548852-1ef59d00-d784-11eb-8e39-255e0c3e97d5.gif" width="35%" ></a>
+<a href="" ><img src="" width="35%" ></a>
 
 </p>
+-->
